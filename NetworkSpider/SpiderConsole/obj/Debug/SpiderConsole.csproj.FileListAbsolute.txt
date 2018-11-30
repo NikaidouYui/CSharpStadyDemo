@@ -1,0 +1,13 @@
+C:\Users\65130\Source\Repos\NetworkSpider\SpiderConsole\SpiderConsole\bin\Debug\SpiderConsole.exe.config
+C:\Users\65130\Source\Repos\NetworkSpider\SpiderConsole\SpiderConsole\bin\Debug\SpiderConsole.exe
+C:\Users\65130\Source\Repos\NetworkSpider\SpiderConsole\SpiderConsole\bin\Debug\SpiderConsole.pdb
+C:\Users\65130\Source\Repos\NetworkSpider\SpiderConsole\SpiderConsole\bin\Debug\HtmlAgilityPack.dll
+C:\Users\65130\Source\Repos\NetworkSpider\SpiderConsole\SpiderConsole\bin\Debug\WebDriver.dll
+C:\Users\65130\Source\Repos\NetworkSpider\SpiderConsole\SpiderConsole\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\65130\Source\Repos\NetworkSpider\SpiderConsole\SpiderConsole\bin\Debug\HtmlAgilityPack.xml
+C:\Users\65130\Source\Repos\NetworkSpider\SpiderConsole\SpiderConsole\bin\Debug\WebDriver.xml
+C:\Users\65130\Source\Repos\NetworkSpider\SpiderConsole\SpiderConsole\obj\Debug\SpiderConsole.csproj.CoreCompileInputs.cache
+C:\Users\65130\Source\Repos\NetworkSpider\SpiderConsole\SpiderConsole\obj\Debug\SpiderConsole.csproj.CopyComplete
+C:\Users\65130\Source\Repos\NetworkSpider\SpiderConsole\SpiderConsole\obj\Debug\SpiderConsole.exe
+C:\Users\65130\Source\Repos\NetworkSpider\SpiderConsole\SpiderConsole\obj\Debug\SpiderConsole.pdb
+C:\Users\65130\Source\Repos\NetworkSpider\SpiderConsole\SpiderConsole\obj\Debug\SpiderConsole.csprojAssemblyReference.cache
